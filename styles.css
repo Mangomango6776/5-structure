@@ -1,1 +1,12 @@
-html {background-color: cadetblue;}
+html {
+    background-color: cadetblue;
+}
+
+body {
+    margin: 0;
+}
+
+.main-header {
+    background-color: darkolivegreen;
+    padding: 30px;
+}
