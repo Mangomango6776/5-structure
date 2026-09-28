@@ -1,12 +1,40 @@
 html {
-    background-color: cadetblue;
+    background-color: rgb(134, 222, 225);
 }
 
 body {
     margin: 0;
 }
 
+.branded-border {
+    border-bottom: 4px dotted pink;
+    padding-bottom: 10px; 
+}
+
 .main-header {
     background-color: darkolivegreen;
     padding: 30px;
 }
+
+.viburnums-header {
+    background-color: rgb(251, 71, 161);
+    color: beige;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.nav-links {
+    color: rgb(108, 13, 63);
+}
+
+.viburnums-main {
+    background-color: rgb(255, 121, 188);
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.viburnums-footer {
+    background-color: deeppink;
+    padding: 30px;
+}
+
