@@ -1,7 +1,29 @@
 html {
-    background-color: rgb(175, 252, 255);
+    background-color: rgb(210, 255, 142);
 }
 
 body {
     margin: 0;
+}
+
+.site-header {
+    background-color: olive;
+    color: blanchedalmond;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.UWM-main {
+    background-color: darkolivegreen;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.UWM-block {
+    background-color: olivedrab;
+    padding: 35px;
+}
+
+.nav-links {
+    color: blanchedalmond;
 }
