@@ -24,7 +24,26 @@ body {
 }
 
 .nav-links {
-    color: rgb(108, 13, 63);
+    color: rgb(255, 247, 187);
+    background-color: brown;
+}
+
+.nav-links:hover {
+    color: darkseagreen;
+    background-color: rgb(255, 6, 189);
+    font-size: 30px;
+}
+
+.nav-links:visited {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.nav-links:active {
+    font-size: 40px;
+}
+
+.nav-links:focus {
+    padding: 10px;
 }
 
 .viburnums-main {
